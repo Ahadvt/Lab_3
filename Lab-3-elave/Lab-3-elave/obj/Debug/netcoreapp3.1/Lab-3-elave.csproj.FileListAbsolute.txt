@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\bin\Debug\netcoreapp3.1\Lab-3-elave.exe
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\bin\Debug\netcoreapp3.1\Lab-3-elave.deps.json
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\bin\Debug\netcoreapp3.1\Lab-3-elave.runtimeconfig.json
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\bin\Debug\netcoreapp3.1\Lab-3-elave.runtimeconfig.dev.json
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\bin\Debug\netcoreapp3.1\Lab-3-elave.dll
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\bin\Debug\netcoreapp3.1\Lab-3-elave.pdb
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.AssemblyInfo.cs
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.dll
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.pdb
+C:\Users\HP\Desktop\lab-3-elave\Lab-3-elave\Lab-3-elave\obj\Debug\netcoreapp3.1\Lab-3-elave.genruntimeconfig.cache
